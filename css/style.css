@@ -272,6 +272,8 @@ html,body{
  }
 
  .box-planos-single p{
+     margin-top: 13px;
+
      color: #777777;
      font-size: 17px;
  }
