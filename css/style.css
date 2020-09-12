@@ -479,7 +479,7 @@ html,body{
      }
 
      .box-planos-single{
-         width: 100%;
+         width: 60%;
          margin: 20px 0;
          text-align: center;
      }
@@ -494,6 +494,10 @@ html,body{
         padding: 0 2%;
         text-align: justify;
      }
+
+     .box-planos-single{
+        width: 100%;
+    }
 
      .w50{
          width: 100%;
