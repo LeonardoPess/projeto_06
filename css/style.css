@@ -473,21 +473,21 @@ html,body{
 
 
 
-
-
- @media screen and (max-width: 768px){
-     .content-header p{
-        max-width: 600px;
-     }
-
+ @media screen and (max-width: 1024px){
      .box-planos{
-        padding: 30px 0;
-    }
+         padding: 30px 0;
+     }
 
      .box-planos-single{
          width: 100%;
          margin: 20px 0;
          text-align: center;
+     }
+ }
+
+ @media screen and (max-width: 768px){
+     .content-header p{
+        max-width: 600px;
      }
 
      section.parallax p{
