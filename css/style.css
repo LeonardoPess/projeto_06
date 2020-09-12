@@ -480,7 +480,7 @@ html,body{
 
      .box-planos-single{
          width: 60%;
-         margin: 20px 0;
+         margin: 0 auto;
          text-align: center;
      }
  }
