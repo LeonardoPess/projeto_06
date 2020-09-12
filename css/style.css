@@ -483,6 +483,12 @@ html,body{
          margin: 20px auto;
          text-align: center;
      }
+
+     .time > .w50{
+        width: 100%;
+        margin: 15px;
+     }
+
  }
 
  @media screen and (max-width: 768px){
@@ -501,11 +507,6 @@ html,body{
 
      .w50{
          width: 100%;
-     }
-
-     .time > .w50{
-        width: 100%;
-        margin: 15px;
      }
 
      nav.desktop{
