@@ -196,7 +196,7 @@ html,body{
  .chamada-planos{
      width: 100%;
 
-     padding: 30px 2%;
+     padding: 30px 0;
 
      text-align: center;
      background-color: rgb(220, 220, 220);
@@ -223,7 +223,7 @@ html,body{
 
  .box-planos-single{
      width: 33.3%;
-     padding: 0 2%px;
+     padding: 0 2%;
  }
 
  .box-planos-wraper{
